@@ -42,7 +42,9 @@ STAR Schema (Fact & Dimensions)
         ↓
 Automated Refresh (Snowflake Task)
 
-📂 Repository Structure
+## 📂 Repository Structure
+
+```text
 stock-market-data-pipeline/
 ├── src/
 │   └── ingest.py
